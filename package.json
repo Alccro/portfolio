@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alccro/portfolio/issues"
   },
-  "homepage": "https://github.com/Alccro/portfolio#readme"
+  "homepage": "https://github.com/Alccro/portfolio#readme",
+  "dependencies": {
+    "tsparticles": "^1.42.4"
+  }
 }
